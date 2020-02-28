@@ -1,0 +1,34 @@
+C:\Users\Manuel Gonzalez\source\repos\ContactsApp\ContactsApp\ContactsApp\bin\Debug\netstandard2.0\ContactsApp.deps.json
+C:\Users\Manuel Gonzalez\source\repos\ContactsApp\ContactsApp\ContactsApp\bin\Debug\netstandard2.0\ContactsApp.dll
+C:\Users\Manuel Gonzalez\source\repos\ContactsApp\ContactsApp\ContactsApp\bin\Debug\netstandard2.0\ref\ContactsApp.dll
+C:\Users\Manuel Gonzalez\source\repos\ContactsApp\ContactsApp\ContactsApp\bin\Debug\netstandard2.0\ContactsApp.pdb
+C:\Users\Manuel Gonzalez\source\repos\ContactsApp\ContactsApp\ContactsApp\obj\Debug\netstandard2.0\ContactsApp.csprojAssemblyReference.cache
+C:\Users\Manuel Gonzalez\source\repos\ContactsApp\ContactsApp\ContactsApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Manuel Gonzalez\source\repos\ContactsApp\ContactsApp\ContactsApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Manuel Gonzalez\source\repos\ContactsApp\ContactsApp\ContactsApp\obj\Debug\netstandard2.0\Views\AddPage.xaml.g.cs
+C:\Users\Manuel Gonzalez\source\repos\ContactsApp\ContactsApp\ContactsApp\obj\Debug\netstandard2.0\Views\HomePage.xaml.g.cs
+C:\Users\Manuel Gonzalez\source\repos\ContactsApp\ContactsApp\ContactsApp\obj\Debug\netstandard2.0\ContactsApp.AssemblyInfoInputs.cache
+C:\Users\Manuel Gonzalez\source\repos\ContactsApp\ContactsApp\ContactsApp\obj\Debug\netstandard2.0\ContactsApp.AssemblyInfo.cs
+C:\Users\Manuel Gonzalez\source\repos\ContactsApp\ContactsApp\ContactsApp\obj\Debug\netstandard2.0\ContactsApp.csproj.Fody.CopyLocal.cache
+C:\Users\Manuel Gonzalez\source\repos\ContactsApp\ContactsApp\ContactsApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Manuel Gonzalez\source\repos\ContactsApp\ContactsApp\ContactsApp\obj\Debug\netstandard2.0\ContactsApp.dll
+C:\Users\Manuel Gonzalez\source\repos\ContactsApp\ContactsApp\ContactsApp\obj\Debug\netstandard2.0\ref\ContactsApp.dll
+C:\Users\Manuel Gonzalez\source\repos\ContactsApp\ContactsApp\ContactsApp\obj\Debug\netstandard2.0\ContactsApp.pdb
+C:\Users\Manuel Gonzalez\source\repos\ContactsApp\ContactsApp\ContactsApp\obj\Debug\netstandard2.0\Views\EditPage.xaml.g.cs
+C:\Users\Emilp\Downloads\New folder (10)\ContactsApp\ContactsApp\ContactsApp\bin\Debug\netstandard2.0\ContactsApp.deps.json
+C:\Users\Emilp\Downloads\New folder (10)\ContactsApp\ContactsApp\ContactsApp\bin\Debug\netstandard2.0\ContactsApp.dll
+C:\Users\Emilp\Downloads\New folder (10)\ContactsApp\ContactsApp\ContactsApp\bin\Debug\netstandard2.0\ref\ContactsApp.dll
+C:\Users\Emilp\Downloads\New folder (10)\ContactsApp\ContactsApp\ContactsApp\bin\Debug\netstandard2.0\ContactsApp.pdb
+C:\Users\Emilp\Downloads\New folder (10)\ContactsApp\ContactsApp\ContactsApp\obj\Debug\netstandard2.0\ContactsApp.csprojAssemblyReference.cache
+C:\Users\Emilp\Downloads\New folder (10)\ContactsApp\ContactsApp\ContactsApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Emilp\Downloads\New folder (10)\ContactsApp\ContactsApp\ContactsApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Emilp\Downloads\New folder (10)\ContactsApp\ContactsApp\ContactsApp\obj\Debug\netstandard2.0\Views\AddPage.xaml.g.cs
+C:\Users\Emilp\Downloads\New folder (10)\ContactsApp\ContactsApp\ContactsApp\obj\Debug\netstandard2.0\Views\EditPage.xaml.g.cs
+C:\Users\Emilp\Downloads\New folder (10)\ContactsApp\ContactsApp\ContactsApp\obj\Debug\netstandard2.0\Views\HomePage.xaml.g.cs
+C:\Users\Emilp\Downloads\New folder (10)\ContactsApp\ContactsApp\ContactsApp\obj\Debug\netstandard2.0\ContactsApp.AssemblyInfoInputs.cache
+C:\Users\Emilp\Downloads\New folder (10)\ContactsApp\ContactsApp\ContactsApp\obj\Debug\netstandard2.0\ContactsApp.AssemblyInfo.cs
+C:\Users\Emilp\Downloads\New folder (10)\ContactsApp\ContactsApp\ContactsApp\obj\Debug\netstandard2.0\ContactsApp.csproj.Fody.CopyLocal.cache
+C:\Users\Emilp\Downloads\New folder (10)\ContactsApp\ContactsApp\ContactsApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Emilp\Downloads\New folder (10)\ContactsApp\ContactsApp\ContactsApp\obj\Debug\netstandard2.0\ContactsApp.dll
+C:\Users\Emilp\Downloads\New folder (10)\ContactsApp\ContactsApp\ContactsApp\obj\Debug\netstandard2.0\ref\ContactsApp.dll
+C:\Users\Emilp\Downloads\New folder (10)\ContactsApp\ContactsApp\ContactsApp\obj\Debug\netstandard2.0\ContactsApp.pdb
